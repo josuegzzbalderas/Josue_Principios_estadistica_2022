@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Filiberto Lozoya Ojeda
+# Josue Gonzalez
 03/02/22
 Clases
 # Sesion Semana 3 Sala de Computo
