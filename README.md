@@ -58,3 +58,6 @@ Semana 14:
 Semana 15:
 + 11/05/2022: Sala de computo: HW 6
 + 12/05/2022:
+
+Semana 16:
++18/05/2022: Preparacion del pia
