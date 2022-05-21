@@ -4,12 +4,12 @@ Semana 1:
 + 19/01/2022: Clase en linea y presentacion de la clase de estudio.
 
 Semana 2:
-+ 26/01/2022: Primeros pasos en R y Rstudio.
++ 26/01/2022: Primeros pasos en R y Rstudio. 
 + 27/01/2022: Conectar github y Rstudio.
 
 Semana 3:
 + 02/02/2022 : Sala de computo: Instalar credenciales y proyecto.
-+ 03/02/2022: Sala de computo: Revisar lab 1 y HW01.
++ 03/02/2022: Sala de computo: Revisar lab 1 y HW01. Clases/Clase03-02-22.R
 
 Semana 4:
 + 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
