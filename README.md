@@ -9,7 +9,7 @@ Semana 2:
 
 Semana 3:
 + 02/02/2022 : Sala de computo: Instalar credenciales y proyecto.
-+ 03/02/2022: Sala de computo: Revisar lab 1 y HW01. Clases/Clase03-02-22.R
++ 03/02/2022: Sala de computo: Revisar lab 1 y HW01. 
 
 Semana 4:
 + 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
